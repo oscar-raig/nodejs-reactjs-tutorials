@@ -1,0 +1,17 @@
+{
+  "name": "tutorial-01",
+  "version": "1.0.0",
+  "description": "creates a node ReactJs simple project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base ./",
+    "build": "webpack"
+  },
+  "author": "Oscar Raig",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
