@@ -10,7 +10,7 @@ STEPS:
 * Install npm.:npm install
 
 * Initialize the project:
-node init
+npm init
 
 * Install webpack and webpack-dev-server.
 
