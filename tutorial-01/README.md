@@ -7,7 +7,7 @@ You will Run a server locally that display a Hello world message in your browser
 
 STEPS:
 
-* Install npm.
+* Install npm.:npm install
 
 * Initialize the project:
 node init
