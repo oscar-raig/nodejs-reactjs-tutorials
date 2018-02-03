@@ -12,7 +12,7 @@ STEPS:
 * Initialize the project:
 npm init
 
-* Install webpack and webpack-dev-server.
+* Install webpack and webpack-dev-server, in global mode( -g). Do not install if you have inatall before)
 
 * Create a basic index.js
 
