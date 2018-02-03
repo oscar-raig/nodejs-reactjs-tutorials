@@ -14,7 +14,7 @@ npm init
 
 * Install webpack and webpack-dev-server.
 
-* Create a basic main.js
+* Create a basic index.js
 
 * Create a index.html that loads the bundle.js
 
